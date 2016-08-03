@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Whole Shebang #!]]></title>
+        <description><![CDATA[The Whole Shebang #!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 15:15:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mirantis to Deploy Fuel for OpenStack on Kubernetes - Container Journal]]></title>
+            <description><![CDATA[<article><h1>Mirantis to Deploy Fuel for OpenStack on Kubernetes - Container Journal</h1><p>As part of a previously announced alliance with Intel and Google that will result in the OpenStack cloud computing framework being deployed on top of Kubernetes, Mirantis today revealed that the open-source Fuel tool for deploying and managing OpenStack also will be rewritten to run on top of Kubernetes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3934d71962b897a2fea19966287d8c49/croprotate.jpg?cropheight=320&cropwidth=593&degrees=0&input=http%3A%2F%2Fcontainerjournal.com%2Fwp-content%2Fuploads%2F2016%2F07%2FFuel.jpg&x=15&y=0"></article>]]></description>
+            <link>http://containerjournal.com/2016/07/26/mirantis-deploy-fuel-openstack-kubernetes/</link>
+            <guid isPermaLink="false">930b96f8-b296-476c-863e-1e091889c829</guid>
+            <pubDate>Wed, 03 Aug 2016 15:15:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
