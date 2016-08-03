@@ -11,6 +11,8 @@ color:
     - '#3A6EA5'
     - '#004E98'
 layout_spectrum: 0.806336420122534
+author:
+  name: LVC
 name: 'The Whole Shebang #!'
 title: 'The Whole Shebang #!'
 description: Automate Sauce
