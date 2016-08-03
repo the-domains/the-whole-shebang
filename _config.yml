@@ -1,4 +1,3 @@
-layout_spectrum: 0.806336420122534
 typography_spectrum: 0.23690340691246092
 color:
   brandStrength: 0.39722098247148097
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.806336420122534
 name: 'The Whole Shebang #!'
 title: The Whole Shebang
+description: '#!'
